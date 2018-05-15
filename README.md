@@ -18,6 +18,32 @@ Datasets:
 5. Airline Comparison.xlsx
 6. UK Bank Customers.csv
 
+## Data Visualization Tasks
+
+Following are the Data Visualiztions tasks achieved using Tableau
+
+1. Adding Labels,Colors and Formatting
+
+
+2. Aggregation and Granularity
+
+
+3. Annual Bonus Analysis Visualization
+
+
+4. Area Chart for US Unemployment Records with Filters
+
+
+5. Getting started with Dashboard
+
+
+6. Time Series - US Unemployment Records
+
+
+7. Dual Axis Chart
+
+
+
 
 
 
