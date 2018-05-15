@@ -22,33 +22,30 @@ Datasets:
 
 Following are the Data Visualiztions tasks achieved using Tableau
 
-1. Adding Labels,Colors and Formatting
-![](https://github.com/kedarvkunte/Getting-started-with-Tableau/blob/master/Adding%20Labels%2CColors%20and%20Formatting.PNG)
+### 1. Adding Labels,Colors and Formatting
 
-2. Aggregation and Granularity
+![Adding Labels,Colors and Formatting](https://github.com/kedarvkunte/Getting-started-with-Tableau/blob/master/Adding%20Labels%2CColors%20and%20Formatting.PNG)
 
+### 2. Aggregation and Granularity
 
-3. Annual Bonus Analysis Visualization
+![Aggregation and Granularity](https://github.com/kedarvkunte/Getting-started-with-Tableau/blob/master/Aggregation%20and%20Granularity.PNG)
 
+### 3. Annual Bonus Analysis Visualization
 
-4. Area Chart for US Unemployment Records with Filters
+![Annual Bonus Analysis Visualization](https://github.com/kedarvkunte/Getting-started-with-Tableau/blob/master/Annual%20Bonus%20Analysis%20Visualization.png)
 
+### 4. Area Chart for US Unemployment Records with Filters
 
-5. Getting started with Dashboard
+![Area Chart for US Unemployment Records with Filters](https://github.com/kedarvkunte/Getting-started-with-Tableau/blob/master/Area%20Chart%20for%20US%20Unemployment%20Records%20with%20Filters.PNG)
 
+### 5. Getting started with Dashboard
 
-6. Time Series - US Unemployment Records
+![Getting started with Dashboard](https://github.com/kedarvkunte/Getting-started-with-Tableau/blob/master/Dashboard%20in%20Tableau.PNG)
 
+### 6. Time Series - US Unemployment Records
 
-7. Dual Axis Chart
+![Time Series - US Unemployment Records](https://github.com/kedarvkunte/Getting-started-with-Tableau/blob/master/Time%20Series%20-%20US%20Unemployment%20Records.png)
 
+### 7. Dual Axis Chart
 
-
-
-
-
-
-
-
-
-
+![Dual Axis Chart](https://github.com/kedarvkunte/Getting-started-with-Tableau/blob/master/Dual%20Axis%20Chart.PNG)
