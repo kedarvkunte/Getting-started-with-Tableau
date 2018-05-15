@@ -23,7 +23,7 @@ Datasets:
 Following are the Data Visualiztions tasks achieved using Tableau
 
 1. Adding Labels,Colors and Formatting
-
+![](https://github.com/kedarvkunte/Getting-started-with-Tableau/blob/master/Adding%20Labels%2CColors%20and%20Formatting.PNG)
 
 2. Aggregation and Granularity
 
